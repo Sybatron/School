@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Представяне на тема от произведението "Дядо Горио"
+#### „Обществено устройство – Какво е успехът и как се постига, какво е допустимо“
 
-You can use the [editor on GitHub](https://github.com/Sybatron/School/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+>Успехът в произведението „Дядо Горио“ означава човек да е богат, ако той не е богат, то той се смята за по-нисш и по-малко човек от другите хора (бива осмиван и презиран). За да се придобие успех хората прибягват към всяка възможност:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-Търговия
 
-### Markdown
+-Уредени бракове
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Измами
 
-```markdown
-Syntax highlighted code block
+-Изнудване
 
-# Header 1
-## Header 2
-### Header 3
+-Дори и убийство
 
-- Bulleted
-- List
+>Мнозинството хора търсещи успех(богатство), не ги интересува какво е редно и какво не, ако намерят възможност да успеят в живота по какъвто и да е начин те го правят.
 
-1. Numbered
-2. List
+>От морална гледна точка не редно да се изнудва и да се иска пари от твои роднини и ти да живееш на техен гръб, без да правиш някакъв опит да успееш в живота или да припечелиш пари. И след като си изцедил всяка капчица живот и пари на своите роднини, е неприемливо да не отидеш на техния смъртен одър лично, за да се сбогуваш с тях. Всичко това се случва в „Дядо Горио“ и това е пример за неуважението на дъщерите на дядо Горио към него.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sybatron/School/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>Уредените бракове по принцип не са незаконни даже са били и още са нещо нормално, но е недопустимо уредения брак да бъде придружен с убийство, за да се придобие завещанието на някой.
