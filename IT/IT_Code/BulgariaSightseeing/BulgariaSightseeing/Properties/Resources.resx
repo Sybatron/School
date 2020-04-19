@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="BauldTower1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\BauldTower\BauldTower1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BauldTower2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\BauldTower\BauldTower2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BauldTower3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\BauldTower\BauldTower3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BauldTower4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\BauldTower\BauldTower4.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BauldTowerMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\BauldTower\BauldTowerMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BulgariaMap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BulgariaMap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Carevec1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\Carevec\Carevec1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Carevec2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\Carevec\Carevec2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Carevec3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\Carevec\Carevec3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Carevec4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\Carevec\Carevec4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CarevecMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\Carevec\CarevecMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DolphinVarna1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\DolphinVarna\DolphinVarna1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DolphinVarna2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\DolphinVarna\DolphinVarna2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DolphinVarna3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\DolphinVarna\DolphinVarna3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DolphinVarna4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\DolphinVarna\DolphinVarna4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DolphinVarnaMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\DolphinVarna\DolphinVarnaMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HadgiDimitarHouse1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\HadgiDimitarHouse\HadgiDimitarHouse1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HadgiDimitarHouse2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\HadgiDimitarHouse\HadgiDimitarHouse2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HadgiDimitarHouse3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\HadgiDimitarHouse\HadgiDimitarHouse3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HadgiDimitarHouse4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\HadgiDimitarHouse\HadgiDimitarHouse4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HadgiDimitarHouseMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\HadgiDimitarHouse\HadgiDimitarHouseMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kutelka1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\Kutelka\Kutelka1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kutelka2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\Kutelka\Kutelka2.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kutelka3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\Kutelka\Kutelka3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kutelka4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\Kutelka\Kutelka4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KutelkaMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\Kutelka\KutelkaMain.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RetroMuseum1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\RetroMuseum\RetroMuseum1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RetroMuseum2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\RetroMuseum\RetroMuseum2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RetroMuseum3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\RetroMuseum\RetroMuseum3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RetroMuseum4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\RetroMuseum\RetroMuseum4.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RetroMuseumMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\RetroMuseum\RetroMuseumMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RomeRuins1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\RomeRuins\RomeRuins1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RomeRuins2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\RomeRuins\RomeRuins2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RomeRuins3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\RomeRuins\RomeRuins3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RomeRuins4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\RomeRuins\RomeRuins4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RomeRuinsMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\RomeRuins\RomeRuinsMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="St40Machenici1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\St40Machenici\St40Machenici1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="St40Machenici2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\St40Machenici\St40Machenici2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="St40Machenici3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\St40Machenici\St40Machenici3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="St40Machenici4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\St40Machenici\St40Machenici4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="St40MacheniciMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\St40Machenici\St40MacheniciMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TextileIndustryMuseum1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\TextileIndustryMuseum\TextileIndustryMuseum1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TextileIndustryMuseum2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\TextileIndustryMuseum\TextileIndustryMuseum2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TextileIndustryMuseum3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\TextileIndustryMuseum\TextileIndustryMuseum3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TextileIndustryMuseum4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\TextileIndustryMuseum\TextileIndustryMuseum4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TextileIndustryMuseumMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\TextileIndustryMuseum\TextileIndustryMuseumMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Trapezica1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\Trapezica\Trapezica1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Trapezica2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\Trapezica\Trapezica2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Trapezica3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\Trapezica\Trapezica3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Trapezica4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\Trapezica\Trapezica4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrapezicaMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\Trapezica\TrapezicaMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TuidaFortress1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\TuidaFortress\TuidaFortress1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TuidaFortress2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\TuidaFortress\TuidaFortress2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TuidaFortress3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\TuidaFortress\TuidaFortress3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TuidaFortress4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\TuidaFortress\TuidaFortress4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TuidaFortressMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\TuidaFortress\TuidaFortressMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UspenieBogorodichno1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\UspenieBogorodichno\UspenieBogorodichno1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UspenieBogorodichno2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\UspenieBogorodichno\UspenieBogorodichno2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UspenieBogorodichno3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\UspenieBogorodichno\UspenieBogorodichno3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UspenieBogorodichno4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\UspenieBogorodichno\UspenieBogorodichno4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UspenieBogorodichnoMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\UspenieBogorodichno\UspenieBogorodichnoMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
