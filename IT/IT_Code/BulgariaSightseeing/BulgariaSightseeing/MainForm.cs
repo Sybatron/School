@@ -12,72 +12,81 @@ namespace BulgariaSightseeing
 
         private void forTownMenuItem_Click(object sender, EventArgs e)
         {
-            var aboutForm = new AboutHistoryForm();
 
             void ChangeFormTitle(string town, Form formToChange)
             {
                 formToChange.Text = $"Информация за {town}";
             }
 
-            if (townsMenuStrip.SourceControl == sofiaLabel)
+            void CreateInfoForm(string town, string typeInfo)
             {
-                ChangeFormTitle("София", aboutForm);
-            }
-            if (townsMenuStrip.SourceControl == vTarnovoLabel)
-            {
-                ChangeFormTitle("Велико Търново", aboutForm);
-            }
-            if (townsMenuStrip.SourceControl == slivenLabel)
-            {
-                ChangeFormTitle("Сливен", aboutForm);
-            }
-            if (townsMenuStrip.SourceControl == burgasLabel)
-            {
-                ChangeFormTitle("Бургас", aboutForm);
-            }
-            if (townsMenuStrip.SourceControl == varnaLabel)
-            {
-                ChangeFormTitle("Варна", aboutForm);
+                var aboutForm = new AboutHistoryForm(town, typeInfo);
+                ChangeFormTitle(town, aboutForm);
+                this.Hide();
+                aboutForm.ShowDialog();
+                this.Close();
             }
 
-            this.Hide();
-            aboutForm.ShowDialog();
-            this.Close();
+            var type = "info";
+
+            if (townsMenuStrip.SourceControl == sofiaLabel)
+            {
+                CreateInfoForm("София", type);
+            }
+            else if (townsMenuStrip.SourceControl == vTarnovoLabel)
+            {
+                CreateInfoForm("Велико Търново", type);
+            }
+            else if (townsMenuStrip.SourceControl == slivenLabel)
+            {
+                CreateInfoForm("Сливен", type);
+            }
+            else if (townsMenuStrip.SourceControl == burgasLabel)
+            {
+                CreateInfoForm("Бургас", type);
+            }
+            else if (townsMenuStrip.SourceControl == varnaLabel)
+            {
+                CreateInfoForm("Варна", type);
+            }
         }
 
         private void historyMenuItem_Click(object sender, EventArgs e)
         {
-            var historyForm = new AboutHistoryForm();
-
             void ChangeFormTitle(string town, Form formToChange)
             {
                 formToChange.Text = $"История на {town}";
             }
 
-            if (townsMenuStrip.SourceControl == sofiaLabel)
+            void CreateHistoryForm(string town, string typeInfo)
             {
-                ChangeFormTitle("София", historyForm);
-            }
-            if (townsMenuStrip.SourceControl == vTarnovoLabel)
-            {
-                ChangeFormTitle("Велико Търново", historyForm);
-            }
-            if (townsMenuStrip.SourceControl == slivenLabel)
-            {
-                ChangeFormTitle("Сливен", historyForm);
-            }
-            if (townsMenuStrip.SourceControl == burgasLabel)
-            {
-                ChangeFormTitle("Бургас", historyForm);
-            }
-            if (townsMenuStrip.SourceControl == varnaLabel)
-            {
-                ChangeFormTitle("Варна", historyForm);
+                var aboutForm = new AboutHistoryForm(town, typeInfo);
+                ChangeFormTitle(town, aboutForm);
+                this.Hide();
+                aboutForm.ShowDialog();
+                this.Close();
             }
 
-            this.Hide();
-            historyForm.ShowDialog();
-            this.Close();
+            if (townsMenuStrip.SourceControl == sofiaLabel)
+            {
+                CreateHistoryForm("София", "history");
+            }
+            else if (townsMenuStrip.SourceControl == vTarnovoLabel)
+            {
+                CreateHistoryForm("Велико Търново", "history");
+            }
+            else if (townsMenuStrip.SourceControl == slivenLabel)
+            {
+                CreateHistoryForm("Сливен", "history");
+            }
+            else if (townsMenuStrip.SourceControl == burgasLabel)
+            {
+                CreateHistoryForm("Бургас", "history");
+            }
+            else if (townsMenuStrip.SourceControl == varnaLabel)
+            {
+                CreateHistoryForm("Варна", "history");
+            }
         }
 
         private void landmarksMenuItem_Click(object sender, EventArgs e)

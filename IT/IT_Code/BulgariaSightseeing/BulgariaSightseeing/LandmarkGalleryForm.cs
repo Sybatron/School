@@ -126,6 +126,76 @@ namespace BulgariaSightseeing
                         Resources.UspenieBogorodichno4 });
                 }
             }
+            else if (city == "Бургас")
+            {
+                if (landmarkName == "Археологически музей")
+                {
+                    ChangePictures(new[] {
+                        Resources.ArchaeologyMuseum1,
+                        Resources.ArchaeologyMuseum2,
+                        Resources.ArchaeologyMuseum3,
+                        Resources.ArchaeologyMuseum4 });
+                }
+                else if (landmarkName == "Природозащитен център ПОДА")
+                {
+                    ChangePictures(new[] {
+                        Resources.Poda1,
+                        Resources.Poda2,
+                        Resources.Poda3,
+                        Resources.Poda4 });
+                }
+                else if (landmarkName == "Морската градина")
+                {
+                    ChangePictures(new[] {
+                        Resources.SeaGarden1,
+                        Resources.SeaGarden2,
+                        Resources.SeaGarden3,
+                        Resources.SeaGarden4 });
+                }
+                else if (landmarkName == "Манастир \"Света Анастасия\"")
+                {
+                    ChangePictures(new[] {
+                        Resources.SvetaAnastasia1,
+                        Resources.SvetaAnastasia2,
+                        Resources.SvetaAnastasia3,
+                        Resources.SvetaAnastasia4 });
+                }
+            }
+            else if (city == "София")
+            {
+                if (landmarkName == "Боянска църква")
+                {
+                    ChangePictures(new[] {
+                        Resources.BoyanskaCarkva1,
+                        Resources.BoyanskaCarkva2,
+                        Resources.BoyanskaCarkva3,
+                        Resources.BoyanskaCarkva4 });
+                }
+                else if (landmarkName == "Св. Александър Невски")
+                {
+                    ChangePictures(new[] {
+                        Resources.StAlexanderNevski1,
+                        Resources.StAlexanderNevski2,
+                        Resources.StAlexanderNevski3,
+                        Resources.StAlexanderNevski4 });
+                }
+                else if (landmarkName == "Ротонда \"Св. Георги\"")
+                {
+                    ChangePictures(new[] {
+                        Resources.StGeorge1,
+                        Resources.StGeorge2,
+                        Resources.StGeorge3,
+                        Resources.StGeorge4 });
+                }
+                else if (landmarkName == "Витоша")
+                {
+                    ChangePictures(new[] {
+                        Resources.Vitosha1,
+                        Resources.Vitosha2,
+                        Resources.Vitosha3,
+                        Resources.Vitosha4 });
+                }
+            }
         }
 
         private void ChangePictures(Image[] pics)

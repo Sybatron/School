@@ -63,6 +63,67 @@ namespace BulgariaSightseeing.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ArchaeologyMuseum1 {
+            get {
+                object obj = ResourceManager.GetObject("ArchaeologyMuseum1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ArchaeologyMuseum2 {
+            get {
+                object obj = ResourceManager.GetObject("ArchaeologyMuseum2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ArchaeologyMuseum3 {
+            get {
+                object obj = ResourceManager.GetObject("ArchaeologyMuseum3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ArchaeologyMuseum4 {
+            get {
+                object obj = ResourceManager.GetObject("ArchaeologyMuseum4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Археологическата експозиция в Бургас е най-старият музей в Бургаска област, съхраняващ културно-историческото наследство на едни от най-древните градове по нашата територия – Созопол (Аполония), Несебър (Месамбрия), Поморие (Анхиало) и др. Той е създаден през 1912 г. като частен музей на Археологическото дружество „Дебелт“. Тогава именно за него е отредена сградата на днешната Археологическа експозиция – тогавашната Девическа гимназия.
+        ///
+        ///Археологическата експозиция на РИМ-Бургас се помещава в сграда на цен [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string ArchaeologyMuseumInfo {
+            get {
+                return ResourceManager.GetString("ArchaeologyMuseumInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ArchaeologyMuseumMain {
+            get {
+                object obj = ResourceManager.GetObject("ArchaeologyMuseumMain", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap BauldTower1 {
             get {
                 object obj = ResourceManager.GetObject("BauldTower1", resourceCulture);
@@ -101,6 +162,19 @@ namespace BulgariaSightseeing.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Балдуиновата кула се намира в Архитектурно-музейния резерват „Царевец“, Велико Търново.
+        ///
+        ///Югоизточната бойна кула охранявала най-уязвимото място на крепостта Царевград Търнов, Френкхисарската порта и водоизточника на река Янтра.
+        ///
+        ///Нейното наименование се свързва с легендите за латинския император Балдуин Фландърски, който след битката при Адрианапол през 1205 г. според някои безследно е изчезнал, но според други е пленен от българския цар Калоян и е намерил смъртта си в нея..
+        /// </summary>
+        internal static string BauldTowerInfo {
+            get {
+                return ResourceManager.GetString("BauldTowerInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap BauldTowerMain {
@@ -113,10 +187,127 @@ namespace BulgariaSightseeing.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap BoyanskaCarkva1 {
+            get {
+                object obj = ResourceManager.GetObject("BoyanskaCarkva1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BoyanskaCarkva2 {
+            get {
+                object obj = ResourceManager.GetObject("BoyanskaCarkva2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BoyanskaCarkva3 {
+            get {
+                object obj = ResourceManager.GetObject("BoyanskaCarkva3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BoyanskaCarkva4 {
+            get {
+                object obj = ResourceManager.GetObject("BoyanskaCarkva4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Боянската църква „Св. св. Никола и Пантелеймон“ е средновековна българска църква (придворен параклис, по-късно манастир) в софийския квартал Бояна, намиращ се в подножието на Витоша. Тя е един от културните символи на България и е включена през 1979 г. като културен паметник в Списъка на световното културно и природно наследство на ЮНЕСКО под № 42. Филиал е на Националния исторически музей от 2003 г. Тук в 1854 г. Виктор Григорович открива Боянския поменик на българските царе и Боянския палимпсест – забележ [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string BoyanskaCarkvaInfo {
+            get {
+                return ResourceManager.GetString("BoyanskaCarkvaInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BoyanskaCarkvaMain {
+            get {
+                object obj = ResourceManager.GetObject("BoyanskaCarkvaMain", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap BulgariaMap {
             get {
                 object obj = ResourceManager.GetObject("BulgariaMap", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Burgas1 {
+            get {
+                object obj = ResourceManager.GetObject("Burgas1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Burgas2 {
+            get {
+                object obj = ResourceManager.GetObject("Burgas2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Burgas3 {
+            get {
+                object obj = ResourceManager.GetObject("Burgas3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Burgas4 {
+            get {
+                object obj = ResourceManager.GetObject("Burgas4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Деултум, Скафида и Порос са завладени от османските турци, начело със султан Мурад I през 1367/1368 година, но превзети по-късно от Амадей VI Савойски, който ги предоставя на Византия. В началото на 1453 година, малко преди падането на Константинопол те, заедно с други градове по Южното Черноморие, са последните български територии, които падат под османско владичество. Деултум е окончателно разрушен и не може да се възстанови пред следващите столетия. Термополис и Пиргос са запазени, а първият турски султа [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string BurgasHistory {
+            get {
+                return ResourceManager.GetString("BurgasHistory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Бургас е най-големият град в Югоизточна България и вторият по големина на българското Черноморие, а със своето землище от 253,644 km², той е вторият град по площ в България (след София). Според последното преброяване на НСИ към 31 декември 2018 г. населението е 203 962 жители и така продължава да е четвъртият по големина град в страната (след София, Пловдив и Варна). Бургас е най-важният културен, стопански, транспортен, управленски, туристически и просветен център в Югоизточна България. Градът е администра [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string BurgasInfo {
+            get {
+                return ResourceManager.GetString("BurgasInfo", resourceCulture);
             }
         }
         
@@ -157,6 +348,19 @@ namespace BulgariaSightseeing.Properties {
             get {
                 object obj = ResourceManager.GetObject("Carevec4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Царевец е хълм във Велико Търново, както и едноименна крепост в средновековния Търновград.
+        ///
+        ///Разположена е в близост до стария град на Велико Търново. Тя е била главната българска крепост по време на Второто българско царство (1185 – 1393), когато Търново е столица на царството. През Средновековието хълмът, на който се намира, е изцяло застроен с жилищни и административни постройки.
+        ///
+        ///Царевец е сред Стоте национални туристически обекта, има печат на БТС..
+        /// </summary>
+        internal static string CarevecInfo {
+            get {
+                return ResourceManager.GetString("CarevecInfo", resourceCulture);
             }
         }
         
@@ -211,6 +415,17 @@ namespace BulgariaSightseeing.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Варненският делфинариум се намира в северната част на Морската градина в град Варна. Открит е на 11 август 1984 година и разполага с 1200 места. Размерите на басейна са 12 на 15 метра и дълбочина 6 метра, и се пълни с морска вода чрез специална помпена система. Водата се извлича от Черно море на 150 – 160 метра от брега и дълбочина 3 – 6 метра, където тя е най-чиста и се подлага на преработка преди да достигне до басейна. Делфинариумът разполага и с кафе-сладкарница с прозрачна стена към аквариума.
+        ///
+        ///Във в [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string DolphinVarnaInfo {
+            get {
+                return ResourceManager.GetString("DolphinVarnaInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap DolphinVarnaMain {
@@ -257,6 +472,21 @@ namespace BulgariaSightseeing.Properties {
             get {
                 object obj = ResourceManager.GetObject("HadgiDimitarHouse4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Тук през 1935г. е открита първата музейна сбирка, която през 1955г. прераства в експозиция.
+        ///
+        ///Родният дом е малка, едноката, несиметрична къща с дървен чардак, с характерните конструктивни архитектурни белези на Ранното възраждане.
+        ///
+        ///Възстановен е изцяло традиционният интериор в стаята, където е роден Хаджи Димитър, гостната, мутвакът /кухнята/ и типичната сливенска винарска изба.
+        ///
+        ///В музейния комплекс е включен и ханът на х. Никола Асенов с прилежащите стопански постройки, където е пресъздадена обстанов [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string HadgiDimitarHouseInfo {
+            get {
+                return ResourceManager.GetString("HadgiDimitarHouseInfo", resourceCulture);
             }
         }
         
@@ -311,11 +541,87 @@ namespace BulgariaSightseeing.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Обявен е за резерват с обща площ 645,1 хектара със Заповед №2 на Комитета за опазване на природната среда при Министерски съвет от 22 декември 1983 година с цел запазване на съществуващата коренна растителност от ценни дървесни видове.
+        ///
+        ///Заема обособена зона от територията на природен парк „Сините камъни“.
+        ///
+        ///Резерватът „Кутелка“ е горски масив обявен за опазване на съществуващата коренна над стогодишна букова гора съставена от вида мизийски бук (Fagus sylvatica ssp. moesiaca)..
+        /// </summary>
+        internal static string KutelkaInfo {
+            get {
+                return ResourceManager.GetString("KutelkaInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap KutelkaMain {
             get {
                 object obj = ResourceManager.GetObject("KutelkaMain", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Poda1 {
+            get {
+                object obj = ResourceManager.GetObject("Poda1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Poda2 {
+            get {
+                object obj = ResourceManager.GetObject("Poda2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Poda3 {
+            get {
+                object obj = ResourceManager.GetObject("Poda3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Poda4 {
+            get {
+                object obj = ResourceManager.GetObject("Poda4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Пода, също Под или Подът, е блатна местност с оттока (пороса) на Мандренското езеро към Черно море в землището на Бургас. Там се намира единствената смесена чаплова колония в близост до голям град.
+        ///
+        ///Местността Пода е разположена на юг от центъра на Бургас по продължението на международен път Е 87, близо до разклонението му за бургаския квартал Крайморие.
+        ///
+        ///Името на местността произлиза от дървен сал – „под“, теглен от въже, посредством който се преминавало през пороса на езерото Мандра до началото на 20  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string PodaInfo {
+            get {
+                return ResourceManager.GetString("PodaInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap PodaMain {
+            get {
+                object obj = ResourceManager.GetObject("PodaMain", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -357,6 +663,17 @@ namespace BulgariaSightseeing.Properties {
             get {
                 object obj = ResourceManager.GetObject("RetroMuseum4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to През 2015 г. на дата, знакова за десетилетията, на които е посветен - Деня на труда 1 май, във Варна отваря официално врати уникалният за България „Ретро Музей“. Музеят включва експонати от периода 1944-1989 г., които разказват в артефакти как живееха българите при социализма. Български цигари без филтър, руски прахосмукачки, гедерейски домашни потреби, полска козметика и най-желаните автомобили, произведени в някогашния СИВ, връщат назад машината на времето.
+        ///
+        ///Първият в България музей, разположен в мол, з [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string RetroMuseumInfo {
+            get {
+                return ResourceManager.GetString("RetroMuseumInfo", resourceCulture);
             }
         }
         
@@ -411,12 +728,198 @@ namespace BulgariaSightseeing.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Римските терми се намират в югоизточната част на съвременния град Варна, в близост до пристанището и са сред най-запазените архитектурни паметници от античния период в България. Изградени са през Римската епоха, към края на II век и представляват най-голямата римска баня на Балканите. Според проучванията височината на сводестите конструкции е била над 20 м, а общата площ на съоръжението около 7000 m². Баните са функционирали до края на III век. Те са имали важна социална функция в древния Одесос, който от 1 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string RomeRuinsInfo {
+            get {
+                return ResourceManager.GetString("RomeRuinsInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap RomeRuinsMain {
             get {
                 object obj = ResourceManager.GetObject("RomeRuinsMain", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SeaGarden1 {
+            get {
+                object obj = ResourceManager.GetObject("SeaGarden1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SeaGarden2 {
+            get {
+                object obj = ResourceManager.GetObject("SeaGarden2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SeaGarden3 {
+            get {
+                object obj = ResourceManager.GetObject("SeaGarden3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SeaGarden4 {
+            get {
+                object obj = ResourceManager.GetObject("SeaGarden4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Морската градина (остаряло Приморска градска градина) е парк в българския черноморски град Бургас. Площта на парка е 600 дка., а дължината му е 5 км., като той е озеленен с декоративни дървета и храсти. Сред тях са разположени скулптури и бюстове на известни писатели, актьори и личности създадени главно по време на Летните пленери по скулптура в Бургас. Сред тях се откроява създадена от Петко Задгорски скулптура на Александър Пушкин. В Морската градина се намират и някои от забележителностите на Бургас и па [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string SeaGardenInfo {
+            get {
+                return ResourceManager.GetString("SeaGardenInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SeaGardenMain {
+            get {
+                object obj = ResourceManager.GetObject("SeaGardenMain", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sliven1 {
+            get {
+                object obj = ResourceManager.GetObject("Sliven1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sliven2 {
+            get {
+                object obj = ResourceManager.GetObject("Sliven2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sliven3 {
+            get {
+                object obj = ResourceManager.GetObject("Sliven3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sliven4 {
+            get {
+                object obj = ResourceManager.GetObject("Sliven4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Следи от най-стари селища на територията на Сливен са датирани към новокаменната епоха – шестото хилядолетие пр.н.е. Останки от примитивни каменни сечива са открити в местността Хисарлъка. Там са намерени и следи от тракийско селище от V – III век пр.н.е., сред които тракийска керамика и елинистични монети. Околността на днешния град Сливен е била заселена от тракийските племена асти, кабилети и селети. Тяхната независимост просъществувала до времето на Филип Македонски и Александър Велики, които ги покорил [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string SlivenHistory {
+            get {
+                return ResourceManager.GetString("SlivenHistory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Сливен (изписване до 1945 година Сливенъ) е град в Югоизточна България, разположен в близост до Ямбол и Нова Загора. Той е осмият по големина в страната и е административен център на община Сливен. Сливен е известен като Градът на стоте войводи, свързани с хайдушкото движение.
+        ///
+        ///По последни данни на НСИ към 31 декември 2018 г. населението на Сливен е 86 275 души, което го превръща в осмия по големина български град..
+        /// </summary>
+        internal static string SlivenInfo {
+            get {
+                return ResourceManager.GetString("SlivenInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sofia1 {
+            get {
+                object obj = ResourceManager.GetObject("Sofia1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sofia2 {
+            get {
+                object obj = ResourceManager.GetObject("Sofia2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sofia3 {
+            get {
+                object obj = ResourceManager.GetObject("Sofia3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sofia4 {
+            get {
+                object obj = ResourceManager.GetObject("Sofia4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Най-ранните археологични свидетелства за обитаване на територията на София са от ранния неолит (VI хилядолетие пр. Хр.) – сред тях е Слатинското неолитно селище. Най-ранните данни за заселване на античния център на града – местността около минералните извори на днешната Централна минерална баня – са от бронзовата епоха (II хилядолетие пр. Хр.). Сведенията за това селище са оскъдни, тъй като градът продължава да съществува на това място в продължения на хилядолетия и много от останките са унищожени, но то съ [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string SofiaHistory {
+            get {
+                return ResourceManager.GetString("SofiaHistory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Со̀фия е столицата и най-големият град в България. Тя е 14-ият по големина град в Европейския съюз, с население 1 241 675 души (2019). По резултатите от преброяването през 2011 г. населението на града е 1 291 591, което представлява 17,5% от населението на България. София е разположена в централната част на Западна България, в Софийската котловина, и е заобиколена от планини: Витоша на юг, Люлин на запад и Стара планина на север. Това я прави четвъртата по височина столица в Европа. Изградена е върху четири [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string SofiaInfo {
+            get {
+                return ResourceManager.GetString("SofiaInfo", resourceCulture);
             }
         }
         
@@ -461,11 +964,201 @@ namespace BulgariaSightseeing.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to „Свети Четиридесет мъченици“ е българска православна църква, известен паметник на Търновската художествена школа. Намира се в подножието на крепостта Царевец във Велико Търново. Храмът е паметник на културата и е тясно свързан с историята на България.
+        ///
+        ///Църквата е най-известният средновековен български паметник във Велико Търново. Построена е и стенописана по времето на българския цар Иван Асен II върху по-малка църква вероятно посветена на Богородица, в чест на голямата му победа в Битката при Клокотница  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string St40MacheniciInfo {
+            get {
+                return ResourceManager.GetString("St40MacheniciInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap St40MacheniciMain {
             get {
                 object obj = ResourceManager.GetObject("St40MacheniciMain", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap StAlexanderNevski1 {
+            get {
+                object obj = ResourceManager.GetObject("StAlexanderNevski1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap StAlexanderNevski2 {
+            get {
+                object obj = ResourceManager.GetObject("StAlexanderNevski2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap StAlexanderNevski3 {
+            get {
+                object obj = ResourceManager.GetObject("StAlexanderNevski3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap StAlexanderNevski4 {
+            get {
+                object obj = ResourceManager.GetObject("StAlexanderNevski4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to „Свети Александър Невски“ е православен храм-паметник в град София, България, който e катедрален храм на българския патриарх. Църквата е изградена в 1882 – 1912 година и в 1955 г. е обявена за паметник на културата с национално значение. Около катедралата е разположен площад със същото име.
+        ///
+        ///Храмът представлява внушителна петкорабна кръстокуполна базилика в неовизантийски стил с множество куполи, полукуполи и малки цилиндрични сводове и ясно изразен централен купол. Вътрешността му е разделена по дължина  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string StAlexanderNevskiInfo {
+            get {
+                return ResourceManager.GetString("StAlexanderNevskiInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap StAlexanderNevskiMain {
+            get {
+                object obj = ResourceManager.GetObject("StAlexanderNevskiMain", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap StGeorge1 {
+            get {
+                object obj = ResourceManager.GetObject("StGeorge1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap StGeorge2 {
+            get {
+                object obj = ResourceManager.GetObject("StGeorge2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap StGeorge3 {
+            get {
+                object obj = ResourceManager.GetObject("StGeorge3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap StGeorge4 {
+            get {
+                object obj = ResourceManager.GetObject("StGeorge4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to „Свети Георги“ е православен храм, построен в късната античност в архитектурната форма на ротонда, в София, България. Намира се във вътрешния двор между сградите на хотел Балкан и Президентството на ниво с няколко метра по-ниско от съвременните софийски улици. Смятана за най-старата запазена сграда в града, тя е построена в началото на IV век, не по-късно от времето, когато София е била резиденция на императорите Галерий и Константин Велики. В храма се извършва ежедневно православно богослужение на древния  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string StGeorgeInfo {
+            get {
+                return ResourceManager.GetString("StGeorgeInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap StGeorgeMain {
+            get {
+                object obj = ResourceManager.GetObject("StGeorgeMain", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SvetaAnastasia1 {
+            get {
+                object obj = ResourceManager.GetObject("SvetaAnastasia1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SvetaAnastasia2 {
+            get {
+                object obj = ResourceManager.GetObject("SvetaAnastasia2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SvetaAnastasia3 {
+            get {
+                object obj = ResourceManager.GetObject("SvetaAnastasia3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SvetaAnastasia4 {
+            get {
+                object obj = ResourceManager.GetObject("SvetaAnastasia4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Света Анастасия е български остров в Бургаския залив в Черно море. Между 1945 и 1991 г. островът носи името Болшевик. Намира се на 6,5 км югоизточно от Бургас, между нос Света Анастасия и нос Атия. Островът е изграден от вулканични скали. На него се намира манастирът „Света Анастасия“. Остров Света Анастасия е един от седемте български острова в Черно море и третият по големина след островите Свети Иван и Свети Кирик. Макар и площта му да е само 9 дка (може да бъде обходен целия за 10 минути пешеходно върве [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string SvetaAnastasiaInfo {
+            get {
+                return ResourceManager.GetString("SvetaAnastasiaInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SvetaAnastasiaMain {
+            get {
+                object obj = ResourceManager.GetObject("SvetaAnastasiaMain", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -507,6 +1200,17 @@ namespace BulgariaSightseeing.Properties {
             get {
                 object obj = ResourceManager.GetObject("TextileIndustryMuseum4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Музеят на текстилната индустрия е специализиран музей, който съхранява и представя културни ценности, свързани с българското текстилно индустриално културно наследство, с историята и развитието на текстилната техника и технология и ролята на Сливен в стопанското развитие на страната ни.
+        ///
+        ///Сливен е първият и един от големите индустриални центрове на България. Идеята за създаване на промишлен музей в града датира от 1903г. Реално тя е осъществена 90 години по-късно, когато се отбелязват 150 години от началот [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string TextileIndustryMuseumInfo {
+            get {
+                return ResourceManager.GetString("TextileIndustryMuseumInfo", resourceCulture);
             }
         }
         
@@ -561,6 +1265,19 @@ namespace BulgariaSightseeing.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Трапезица е хълм във Велико Търново, както и едноименна крепост в средновековния Търновград.
+        ///
+        ///Още през византийското владичество на хълма са живеели трапезити (пазители на проходи).
+        ///
+        ///Трапезица е втората крепост на вътрешния град на Средновековен Търновград (Велико Търново). Намира се на десния бряг на р. Янтра, северозападно от Царевец. Представлява естествена крепост, заобиколена от трите си страни от реката. Някога върху стръмните скали се издигали високи стени с бойници и кули. Два напречни крепостни [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string TrapezicaInfo {
+            get {
+                return ResourceManager.GetString("TrapezicaInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap TrapezicaMain {
@@ -607,6 +1324,17 @@ namespace BulgariaSightseeing.Properties {
             get {
                 object obj = ResourceManager.GetObject("TuidaFortress4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Туида е ранновизантийска средновековна крепост, чиито останки са разположени на хълма Хисарлъка в североизточната част на Сливен, от който се открива неповторима гледка към величествените Сини камъни и към самия град (хълмът се намира до кв. Ново село). Тя е част от укрепителната старопланинска система, която имала изключително важна роля за отбраната на Римската империя, по-късно и на ранната Византийска империя, както и на средновековна България.
+        ///
+        ///От 1982 г. се поставя началото на редовни археологически [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string TuidaFortressInfo {
+            get {
+                return ResourceManager.GetString("TuidaFortressInfo", resourceCulture);
             }
         }
         
@@ -661,11 +1389,206 @@ namespace BulgariaSightseeing.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to „Успение Богородично“ е най-голямата църква в град Варна, България, катедрала на Варненската и Великопреславска епархия на Българската православна църква.
+        ///
+        ///В 1879 година императорският комисар начело на Временното руско управление в България княз Александър Дондуков-Корсаков при посещението си във Варна остава разочарован от състоянието на българската църква „Свети Архангел Михаил“ и заявява, че е готов да помогне за издигането на представителна българска църква в града. На 9 ноември 1879 екзархийският ми [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string UspenieBogorodichnoInfo {
+            get {
+                return ResourceManager.GetString("UspenieBogorodichnoInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap UspenieBogorodichnoMain {
             get {
                 object obj = ResourceManager.GetObject("UspenieBogorodichnoMain", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Varna1 {
+            get {
+                object obj = ResourceManager.GetObject("Varna1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Varna2 {
+            get {
+                object obj = ResourceManager.GetObject("Varna2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Varna3 {
+            get {
+                object obj = ResourceManager.GetObject("Varna3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Varna4 {
+            get {
+                object obj = ResourceManager.GetObject("Varna4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to През 1972 г., по време на строителни работи, е открит Варненския халколитен некропол, който датира около 4200 г. пр.н.е. В този некропол е открито смятаното доскоро за най-старото златно съкровище в човешката история, както и други предмети от сребро, мед, бронз, кремък и глина. Известно е, че на брега на Варненския залив, където сега се намира старата част на града, се е намирала крепостта Одесос. Тя е основана от гръцки колонисти от йонийския град Милет по времето на мидийския цар Астиаг (около 570 г. пр. [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string VarnaHistory {
+            get {
+                return ResourceManager.GetString("VarnaHistory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ва̀рна е най-големият град в Североизточна България, разположен по бреговете на Черно море и Варненското езеро и е административен център на едноименните община и област. Той е най-големият град в Северна България и по българското Черноморие. Населението на града по сведения на НСИ към 31 декември 2018 г. се изчислява на 336 505 души, което поставя Варна на трето място в България (след София и Пловдив). На територията му е разположено Адмиралтейството на Българската армия. Варна често се нарича „морската ст [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string VarnaInfo {
+            get {
+                return ResourceManager.GetString("VarnaInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VelikoTarnovo1 {
+            get {
+                object obj = ResourceManager.GetObject("VelikoTarnovo1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VelikoTarnovo2 {
+            get {
+                object obj = ResourceManager.GetObject("VelikoTarnovo2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VelikoTarnovo3 {
+            get {
+                object obj = ResourceManager.GetObject("VelikoTarnovo3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VelikoTarnovo4 {
+            get {
+                object obj = ResourceManager.GetObject("VelikoTarnovo4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Раннобългарски период (VII-XI в.)
+        ///Районът около града е бил обитаван от славяни. В периода VII – VIII век на хълма Царевец се създава селище, съставено от славяни и прабългари. Вероятно градът е бил една от резиденциите на българските владетели, имайки предвид прабългарското и славянското население в региона. Градът е нападан от печенези, узи и кумани. По време на този период в града е имало голям български гарнизон.
+        ///
+        ///Според много историци Търново като български град е бил застроен от хан Крум. Основи на [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string VelikoTarnovoHistory {
+            get {
+                return ResourceManager.GetString("VelikoTarnovoHistory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Велико Търново е град, намиращ се в Северна България, център на едноименната област, както и на Северен централен регион. Градът е столица на Втората българска държава и на Княжество България в периода 1878 – 1879 г. През Средновековието носи името Търновград, като постепенно става известен с наименованието Търново. През 1963 г. пред него е добавено „Велико“ в чест на предишната слава на града. Благодарение на богатото си културно-историческо наследство Велико Търново е важен туристически център.
+        ///
+        ///Градът  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string VelikoTarnovoInfo {
+            get {
+                return ResourceManager.GetString("VelikoTarnovoInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Vitosha1 {
+            get {
+                object obj = ResourceManager.GetObject("Vitosha1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Vitosha2 {
+            get {
+                object obj = ResourceManager.GetObject("Vitosha2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Vitosha3 {
+            get {
+                object obj = ResourceManager.GetObject("Vitosha3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Vitosha4 {
+            get {
+                object obj = ResourceManager.GetObject("Vitosha4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Витоша е планина в Западна България. Най-високата ѝ точка е Черни връх (2290 m). Така тя се нарежда на четвърто място по височина в България след Рила, Пирин и Стара планина.
+        ///
+        ///Витоша се намира между Стара планина и Рило-Родопския масив и е част от Средногорието. Тя е единствената куполообразна планина в България и основното и било се откроява добре от останалите планински масиви. То върви по върховете Черни връх, Резньовете, Скопарник и Острица, в посока северозапад-югоизток.
+        ///
+        ///Планината е част от Завалс [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string VitoshaInfo {
+            get {
+                return ResourceManager.GetString("VitoshaInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VitoshaMain {
+            get {
+                object obj = ResourceManager.GetObject("VitoshaMain", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

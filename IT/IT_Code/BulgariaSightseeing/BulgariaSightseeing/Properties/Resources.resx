@@ -118,6 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ArchaeologyMuseum1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\ArchaeologyMuseum\ArchaeologyMuseum1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchaeologyMuseum2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\ArchaeologyMuseum\ArchaeologyMuseum2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchaeologyMuseum3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\ArchaeologyMuseum\ArchaeologyMuseum3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchaeologyMuseum4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\ArchaeologyMuseum\ArchaeologyMuseum4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchaeologyMuseumInfo" xml:space="preserve">
+    <value>Археологическата експозиция в Бургас е най-старият музей в Бургаска област, съхраняващ културно-историческото наследство на едни от най-древните градове по нашата територия – Созопол (Аполония), Несебър (Месамбрия), Поморие (Анхиало) и др. Той е създаден през 1912 г. като частен музей на Археологическото дружество „Дебелт“. Тогава именно за него е отредена сградата на днешната Археологическа експозиция – тогавашната Девическа гимназия.
+
+Археологическата експозиция на РИМ-Бургас се помещава в сграда на централната бургаска улица „Богориди“, която е изцяло пешеходна и предоставя възможност за придвижване на хората с инвалидни колички.
+
+Първите редовни археологически изследвания на специалисти от бургаското археологическо дружество са проведени през 1927 г. През 30-те и 40-те години на 20 век, бъдещият Бургаски археологически музей се сдобива с най-ценните си експонати. Това са основно около 300 керамични съда, открити при драгиране на Созополското пристанище от различни исторически периоди. Сред находките следва да се споменат и римския надпис от село Пънчево, мраморната статуя от полуостров Атия – най-ранният пример на кръгла скулптура от България, мраморното торсо на бог Дионис от село Оризаре, многобройните находки от праисторическата, тракийската, гръцката, римската, византийската, старобългарската и османската култура по тези земи.</value>
+  </data>
+  <data name="ArchaeologyMuseumMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\ArchaeologyMuseum\ArchaeologyMuseumMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="BauldTower1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\VelikoTarnovo\BauldTower\BauldTower1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -130,11 +152,64 @@
   <data name="BauldTower4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\VelikoTarnovo\BauldTower\BauldTower4.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="BauldTowerInfo" xml:space="preserve">
+    <value>Балдуиновата кула се намира в Архитектурно-музейния резерват „Царевец“, Велико Търново.
+
+Югоизточната бойна кула охранявала най-уязвимото място на крепостта Царевград Търнов, Френкхисарската порта и водоизточника на река Янтра.
+
+Нейното наименование се свързва с легендите за латинския император Балдуин Фландърски, който след битката при Адрианапол през 1205 г. според някои безследно е изчезнал, но според други е пленен от българския цар Калоян и е намерил смъртта си в нея.</value>
+  </data>
   <data name="BauldTowerMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\VelikoTarnovo\BauldTower\BauldTowerMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="BoyanskaCarkva1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\BoyanskaCarkva\BoyanskaCarkva1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BoyanskaCarkva2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\BoyanskaCarkva\BoyanskaCarkva2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BoyanskaCarkva3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\BoyanskaCarkva\BoyanskaCarkva3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BoyanskaCarkva4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\BoyanskaCarkva\BoyanskaCarkva4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BoyanskaCarkvaInfo" xml:space="preserve">
+    <value>Боянската църква „Св. св. Никола и Пантелеймон“ е средновековна българска църква (придворен параклис, по-късно манастир) в софийския квартал Бояна, намиращ се в подножието на Витоша. Тя е един от културните символи на България и е включена през 1979 г. като културен паметник в Списъка на световното културно и природно наследство на ЮНЕСКО под № 42. Филиал е на Националния исторически музей от 2003 г. Тук в 1854 г. Виктор Григорович открива Боянския поменик на българските царе и Боянския палимпсест – забележителни паметници на българското средновековие.
+
+Храмът е двуетажен. Отнася се към типа двуетажни църкви-гробници с долен етаж, предназначен за крипта (гробница) и горен за семеен параклис. Счита се за църква към извънградската резиденция на феодала, от която тя е била част.
+
+Най-старият строителен период е от края на Х век – началото на XI век. Това е малка едноапсидна кръстокуполна сграда с вградени подпори, които формират вписан кръст. Фасадната пластиката на многостъпалните засводените ниши и арките при отворите е допълнена с т.нар. „вълчи зъби“ от поставени неортогонално керамични зидарийни тела при сводовете, тези похвати са прилагани в по-старите български храмове в Търново, Охрид и Костур.</value>
+  </data>
+  <data name="BoyanskaCarkvaMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\BoyanskaCarkva\BoyanskaCarkvaMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="BulgariaMap" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\BulgariaMap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Burgas1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\Burgas1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Burgas2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\Burgas2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Burgas3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\Burgas3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Burgas4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\Burgas4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BurgasHistory" xml:space="preserve">
+    <value>Деултум, Скафида и Порос са завладени от османските турци, начело със султан Мурад I през 1367/1368 година, но превзети по-късно от Амадей VI Савойски, който ги предоставя на Византия. В началото на 1453 година, малко преди падането на Константинопол те, заедно с други градове по Южното Черноморие, са последните български територии, които падат под османско владичество. Деултум е окончателно разрушен и не може да се възстанови пред следващите столетия. Термополис и Пиргос са запазени, а първият турски султан Сюлейман I (1520 – 1566) заповядва изграждането на нова баня (хамам) върху полуразрушените римски басейни. При Порос, който става част от Анхиалската кааза, султан Баязид II изгражда за нуждите на султанския двор чифлик, а за корабоплаването – фар.
+
+Най-ранният писмен документ, споменаващ Бургас точно на мястото на днешния център, е османският регистър (дефтер) от 1603/4 година. В него се споменава за пристанището Пиргос (искеле-и Пиргос), което е част от вакъфа на Искендер паша и се намира в Айтоската кааза (околия), където е до вилаетската реформа от 1864 година. През 1639 и 1646/47 отново е споменато пристанището. Въпреки разрушаването на античната водопроводна мрежа и недостига на вода, Пиргос е използван за база на османския флот.Сладководна вода се пренасяла с каруци или на гръб от близки извори и съхранявала в големи съдове в близост до пристанището.</value>
+  </data>
+  <data name="BurgasInfo" xml:space="preserve">
+    <value>Бургас е най-големият град в Югоизточна България и вторият по големина на българското Черноморие, а със своето землище от 253,644 km², той е вторият град по площ в България (след София). Според последното преброяване на НСИ към 31 декември 2018 г. населението е 203 962 жители и така продължава да е четвъртият по големина град в страната (след София, Пловдив и Варна). Бургас е най-важният културен, стопански, транспортен, управленски, туристически и просветен център в Югоизточна България. Градът е административно средище на едноименната община и област, както и седалище на регионални и национални институции.
+
+В Бургас е разположен Черноморският риболовен флот, част от Българския военноморски флот и бреговата охрана.
+
+Няколкото природни резервати и защитени местности, антични и средновековни селища, Черно море и ежегодните фестивали привличат множество туристи. Бургаската катедрала, носеща името на византийските богослови, светите братя Кирил и Методий; и защитената местност Пода са сред 100-те национални туристически обекта. Манастирът „Света Анастасия“ на едноименния остров във водите на Бургаския залив е единственият запазен средновековен островен манастир в Черно море.</value>
   </data>
   <data name="Carevec1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\VelikoTarnovo\Carevec\Carevec1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -147,6 +222,13 @@
   </data>
   <data name="Carevec4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\VelikoTarnovo\Carevec\Carevec4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CarevecInfo" xml:space="preserve">
+    <value>Царевец е хълм във Велико Търново, както и едноименна крепост в средновековния Търновград.
+
+Разположена е в близост до стария град на Велико Търново. Тя е била главната българска крепост по време на Второто българско царство (1185 – 1393), когато Търново е столица на царството. През Средновековието хълмът, на който се намира, е изцяло застроен с жилищни и административни постройки.
+
+Царевец е сред Стоте национални туристически обекта, има печат на БТС.</value>
   </data>
   <data name="CarevecMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\VelikoTarnovo\Carevec\CarevecMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -163,6 +245,13 @@
   <data name="DolphinVarna4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Varna\DolphinVarna\DolphinVarna4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="DolphinVarnaInfo" xml:space="preserve">
+    <value>Варненският делфинариум се намира в северната част на Морската градина в град Варна. Открит е на 11 август 1984 година и разполага с 1200 места. Размерите на басейна са 12 на 15 метра и дълбочина 6 метра, и се пълни с морска вода чрез специална помпена система. Водата се извлича от Черно море на 150 – 160 метра от брега и дълбочина 3 – 6 метра, където тя е най-чиста и се подлага на преработка преди да достигне до басейна. Делфинариумът разполага и с кафе-сладкарница с прозрачна стена към аквариума.
+
+Във варненския делфинариум има пет делфина – 3 женски и 2 мъжки – Кимбо, Доли и Мика (най-известния) са донесени от далечните брегове на Гватемала и Куба, а Йоана и Бимбо са родени във Варненския делфинариум.
+
+Идеята за създаването в България на делфинариум на черноморското ни крайбрежие за пръв път е лансирана от зоолога Николай Боев. В първоначалната си формулировка тя се е отнасяла за южното ни Черноморие. Цяло десетилетие той не се отказва от нея. Дори в плановете за развитието на тогавашния национален парк „Ропотамо“ бил изготвен и проект за неговото изграждане. Той обаче останал нереализиран. Построен бил делфинариум във Варна. Той е вторият на Черно море след този в Батуми (Грузия).</value>
+  </data>
   <data name="DolphinVarnaMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Varna\DolphinVarna\DolphinVarnaMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -177,6 +266,15 @@
   </data>
   <data name="HadgiDimitarHouse4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sliven\HadgiDimitarHouse\HadgiDimitarHouse4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HadgiDimitarHouseInfo" xml:space="preserve">
+    <value>Тук през 1935г. е открита първата музейна сбирка, която през 1955г. прераства в експозиция.
+
+Родният дом е малка, едноката, несиметрична къща с дървен чардак, с характерните конструктивни архитектурни белези на Ранното възраждане.
+
+Възстановен е изцяло традиционният интериор в стаята, където е роден Хаджи Димитър, гостната, мутвакът /кухнята/ и типичната сливенска винарска изба.
+
+В музейния комплекс е включен и ханът на х. Никола Асенов с прилежащите стопански постройки, където е пресъздадена обстановка, типична за предосвобожденски хан и кебеджийска работилница.</value>
   </data>
   <data name="HadgiDimitarHouseMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sliven\HadgiDimitarHouse\HadgiDimitarHouseMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -193,8 +291,37 @@
   <data name="Kutelka4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sliven\Kutelka\Kutelka4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="KutelkaInfo" xml:space="preserve">
+    <value>Обявен е за резерват с обща площ 645,1 хектара със Заповед №2 на Комитета за опазване на природната среда при Министерски съвет от 22 декември 1983 година с цел запазване на съществуващата коренна растителност от ценни дървесни видове.
+
+Заема обособена зона от територията на природен парк „Сините камъни“.
+
+Резерватът „Кутелка“ е горски масив обявен за опазване на съществуващата коренна над стогодишна букова гора съставена от вида мизийски бук (Fagus sylvatica ssp. moesiaca).</value>
+  </data>
   <data name="KutelkaMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sliven\Kutelka\KutelkaMain.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Poda1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\Poda\Poda1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Poda2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\Poda\Poda2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Poda3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\Poda\Poda3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Poda4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\Poda\Poda4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PodaInfo" xml:space="preserve">
+    <value>Пода, също Под или Подът, е блатна местност с оттока (пороса) на Мандренското езеро към Черно море в землището на Бургас. Там се намира единствената смесена чаплова колония в близост до голям град.
+
+Местността Пода е разположена на юг от центъра на Бургас по продължението на международен път Е 87, близо до разклонението му за бургаския квартал Крайморие.
+
+Името на местността произлиза от дървен сал – „под“, теглен от въже, посредством който се преминавало през пороса на езерото Мандра до началото на 20 век. Според Стоян Шивачев Подът, който се намира на най-югозападния край на Бургаския залив, близо до Порос (Порос или Форос, днес Крайморие), западно от и на 8 км от Бургас, е поставен между сушата и блатистия западен край на залива и Мандренска река, която близо до него се влива в залива е един вид груб и от дебел материал сал – плот. Той е поставен върху малкия, но дълбок проток (на места 10 метра), който съединява Пороското пристанище и Мандренското блато (днес Узунгерен), южно-югозападно от Бургас и западно от Порос.</value>
+  </data>
+  <data name="PodaMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\Poda\PodaMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="RetroMuseum1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Varna\RetroMuseum\RetroMuseum1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -207,6 +334,11 @@
   </data>
   <data name="RetroMuseum4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Varna\RetroMuseum\RetroMuseum4.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RetroMuseumInfo" xml:space="preserve">
+    <value>През 2015 г. на дата, знакова за десетилетията, на които е посветен - Деня на труда 1 май, във Варна отваря официално врати уникалният за България „Ретро Музей“. Музеят включва експонати от периода 1944-1989 г., които разказват в артефакти как живееха българите при социализма. Български цигари без филтър, руски прахосмукачки, гедерейски домашни потреби, полска козметика и най-желаните автомобили, произведени в някогашния СИВ, връщат назад машината на времето.
+
+Първият в България музей, разположен в мол, заема площ от 4000 кв. м. в най-големия варненски търговски център - Grand Mall. Музеят е създаден от бизнесмена Цветан Атанасов.  В музейната експозиция най-ярко блести колекцията от над 50 автомобили от епохата с марките „Волга“, „Москвич“, „Шкода“, „Трабант“ и др., всички в безупречно реставриран вид. До тях са изложени и популярните на времето мотоциклети „Симсон“ и „Балкан“. Звездата на ретро автосалона в музея е класическата „Чайка ГАЗ-13“, лимузината, на която са се возили членовете на Политбюро на БКП.</value>
   </data>
   <data name="RetroMuseumMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Varna\RetroMuseum\RetroMuseumMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -223,8 +355,81 @@
   <data name="RomeRuins4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Varna\RomeRuins\RomeRuins4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="RomeRuinsInfo" xml:space="preserve">
+    <value>Римските терми се намират в югоизточната част на съвременния град Варна, в близост до пристанището и са сред най-запазените архитектурни паметници от античния период в България. Изградени са през Римската епоха, към края на II век и представляват най-голямата римска баня на Балканите. Според проучванията височината на сводестите конструкции е била над 20 м, а общата площ на съоръжението около 7000 m². Баните са функционирали до края на III век. Те са имали важна социална функция в древния Одесос, който от 15 г. пр. Хр. е част от Римската империя в провинция Мизия, но запазва известна самостоятелност (като правото да сече свои монети и да няма римски гарнизон). Като главно пристанище на Мизия, градът е бил силно повлиян от римската култура, за което свидетелстват и термите.
+
+Уникална е отоплителната система на баните. Тя е свързана с двойния под и специалните кухини, отвеждащи топлия въздух до върха на зданието, построено в близост до топли минерални извори, които се използват и до днес във Варна. Посетителите на баните са влизали в просторни зали, създаващи естествена бариера пред студения въздух, след това в огромна зала (балестра), която е била своеобразен център, в който мъжете на Одесос са се събирали, за да обсъждат важни обществени въпроси.</value>
+  </data>
   <data name="RomeRuinsMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Varna\RomeRuins\RomeRuinsMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SeaGarden1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\SeaGarden\SeaGarden1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SeaGarden2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\SeaGarden\SeaGarden2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SeaGarden3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\SeaGarden\SeaGarden3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SeaGarden4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\SeaGarden\SeaGarden4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SeaGardenInfo" xml:space="preserve">
+    <value>Морската градина (остаряло Приморска градска градина) е парк в българския черноморски град Бургас. Площта на парка е 600 дка., а дължината му е 5 км., като той е озеленен с декоративни дървета и храсти. Сред тях са разположени скулптури и бюстове на известни писатели, актьори и личности създадени главно по време на Летните пленери по скулптура в Бургас. Сред тях се откроява създадена от Петко Задгорски скулптура на Александър Пушкин. В Морската градина се намират и някои от забележителностите на Бургас и паметници на културата като Пантеона на загиналите във войните, Морското казино и Летния театър.
+
+Морската градина е разположена в централната част на града. Тя граничи на изток с Черно море и с бургаския плаж, а на север – с парк „Езерото“ и Южно Атанасовско езеро. На запад булевардите „Димитър Димов“, „Демокрация“ и „24-ти пехотен Черноморски полк“ я отделят от централната градска част. На юг Морската градина граничи с Бургаското пристанище. В непосредствена близост до Морската градина се намира жилищният комплекс Лазур.
+
+Първите дървета в района на днешната морска градина са посадени от войниците на казармата на 24-ти пехотен Черноморски полк (създаден през 1889 година). Морската градина е създадена с първия план за развитие на Бургас през 1891 година</value>
+  </data>
+  <data name="SeaGardenMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\SeaGarden\SeaGardenMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sliven1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\Sliven1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sliven2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\Sliven2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sliven3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\Sliven3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sliven4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sliven\Sliven4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SlivenHistory" xml:space="preserve">
+    <value>Следи от най-стари селища на територията на Сливен са датирани към новокаменната епоха – шестото хилядолетие пр.н.е. Останки от примитивни каменни сечива са открити в местността Хисарлъка. Там са намерени и следи от тракийско селище от V – III век пр.н.е., сред които тракийска керамика и елинистични монети. Околността на днешния град Сливен е била заселена от тракийските племена асти, кабилети и селети. Тяхната независимост просъществувала до времето на Филип Македонски и Александър Велики, които ги покорили, но не за дълго. През същата епоха походи през Сливенско извършват персите, келтите и бастарните.
+
+През II век пр.н.е. започват римските завоевания в Североизточна Тракия. Районът на Сливен става част от Римската империя най-вероятно около 72 – 71 г. пр.н.е, когато са покорени Кабиле и Аполония. През 46 г. пр.н.е. землището на града е включено в новосъздадената римска провинция Тракия.
+
+Нов етап от обитаването на Хисарлъка е от началото на новата ера – II – IV век. От този период са намерени и първите писмени източници за наименованието на тогавашното селище – Туида. Името най-вероятно е тракийско, с неясно значение. Споменато е и от Хиерокъл, който го определя като един от четирите града в източноримската провинция Хемимонтус, създадена като част от диоцеза Тракия при Диоклециан, освен столицата ѝ Адрианопол, а също така и от Прокопий Кесарийски в „За строежите“. За нуждите на този град е построен и римският път от Анхиало по горното течение на Тунджа до Сердика на запад.</value>
+  </data>
+  <data name="SlivenInfo" xml:space="preserve">
+    <value>Сливен (изписване до 1945 година Сливенъ) е град в Югоизточна България, разположен в близост до Ямбол и Нова Загора. Той е осмият по големина в страната и е административен център на община Сливен. Сливен е известен като Градът на стоте войводи, свързани с хайдушкото движение.
+
+По последни данни на НСИ към 31 декември 2018 г. населението на Сливен е 86 275 души, което го превръща в осмия по големина български град.</value>
+  </data>
+  <data name="Sofia1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\Sofia1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sofia2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\Sofia2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sofia3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\Sofia3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sofia4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\Sofia4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SofiaHistory" xml:space="preserve">
+    <value>Най-ранните археологични свидетелства за обитаване на територията на София са от ранния неолит (VI хилядолетие пр. Хр.) – сред тях е Слатинското неолитно селище. Най-ранните данни за заселване на античния център на града – местността около минералните извори на днешната Централна минерална баня – са от бронзовата епоха (II хилядолетие пр. Хр.). Сведенията за това селище са оскъдни, тъй като градът продължава да съществува на това място в продължения на хилядолетия и много от останките са унищожени, но то съществува без прекъсване до наши дни.
+
+Исторически сведения за района на днешна София се появяват в древногръцки писмени източници в средата на V век пр. Хр., като по това време тази част на Балканския полуостров е населена с различни народи от групата на траките. Областта на север от планината Скомброс (Витоша) се населява от племената тилатеи, посочени през V век пр.н.е. от Тукидид и трери, посочени от Страбон през I век пр.н.е. Територията, която заемат тилатеите и трерите, се ситуира между днешните София, Перник, Босилеград и Пирот, като изрично се споменава река Оксиос (Искър).</value>
+  </data>
+  <data name="SofiaInfo" xml:space="preserve">
+    <value>Со̀фия е столицата и най-големият град в България. Тя е 14-ият по големина град в Европейския съюз, с население 1 241 675 души (2019). По резултатите от преброяването през 2011 г. населението на града е 1 291 591, което представлява 17,5% от населението на България. София е разположена в централната част на Западна България, в Софийската котловина, и е заобиколена от планини: Витоша на юг, Люлин на запад и Стара планина на север. Това я прави четвъртата по височина столица в Европа. Изградена е върху четирите тераси на река Искър и нейните притоци: Перловска и Владайска (Елешница). В централната градска част, както и в кварталите Овча купел, Княжево, Горна баня и Панчарево, има минерални извори. Климатът на София е умереноконтинентален.
+
+София е основен административен, индустриален, транспортен, културен и университетски център на страната, като в нея е съсредоточено 1/6 от промишленото производство на България. Тук се намират също така Българската академия на науките, много университети, театри, кина, както и Националната галерия, археологически, исторически, природонаучни и други музеи. На много места в центъра на града са запазени видими археологически паметници от римско време.</value>
   </data>
   <data name="St40Machenici1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\VelikoTarnovo\St40Machenici\St40Machenici1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -238,8 +443,77 @@
   <data name="St40Machenici4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\VelikoTarnovo\St40Machenici\St40Machenici4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="St40MacheniciInfo" xml:space="preserve">
+    <value>„Свети Четиридесет мъченици“ е българска православна църква, известен паметник на Търновската художествена школа. Намира се в подножието на крепостта Царевец във Велико Търново. Храмът е паметник на културата и е тясно свързан с историята на България.
+
+Църквата е най-известният средновековен български паметник във Велико Търново. Построена е и стенописана по времето на българския цар Иван Асен II върху по-малка църква вероятно посветена на Богородица, в чест на голямата му победа в Битката при Клокотница на 9 март 1230 г. (деня на Свети 40 севастийски мъченици) над епирския деспот Теодор Комнин. През XIII – XIV век е главна църква на манастира „Великата лавра“.</value>
+  </data>
   <data name="St40MacheniciMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\VelikoTarnovo\St40Machenici\St40MacheniciMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StAlexanderNevski1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\StAlexanderNevski\StAlexanderNevski1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StAlexanderNevski2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\StAlexanderNevski\StAlexanderNevski2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StAlexanderNevski3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\StAlexanderNevski\StAlexanderNevski3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StAlexanderNevski4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\StAlexanderNevski\StAlexanderNevski4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StAlexanderNevskiInfo" xml:space="preserve">
+    <value>„Свети Александър Невски“ е православен храм-паметник в град София, България, който e катедрален храм на българския патриарх. Църквата е изградена в 1882 – 1912 година и в 1955 г. е обявена за паметник на културата с национално значение. Около катедралата е разположен площад със същото име.
+
+Храмът представлява внушителна петкорабна кръстокуполна базилика в неовизантийски стил с множество куполи, полукуполи и малки цилиндрични сводове и ясно изразен централен купол. Вътрешността му е разделена по дължина на три части – нартекс (с два параклиса), централна част и олтар (с три престола), а централната му част е съставена от пет кораба по ширина (с двете странични покрити галерии). По архитектурен стил принадлежи към т.нар. „руски северен ампир“. В подземния етаж на храма се намира криптата. Първоначално тя била предназначена за гробница, но през 1965 г. е превърната в музей за средновековно и антично изкуство – филиал на Националната художествена галерия, където са експонирани едни от най-красивите български икони и стенописи от 12 – 19 век.
+
+Камбанарията на храма с кръста е висока 53 m и има 12 камбани, излети и донесени от Москва. Най-голямата тежи близо 12 тона, а най-малката – 10 kg, като общото тегло на всичките е 23 тона.</value>
+  </data>
+  <data name="StAlexanderNevskiMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\StAlexanderNevski\StAlexanderNevskiMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StGeorge1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\StGeorge\StGeorge1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StGeorge2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\StGeorge\StGeorge2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StGeorge3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\StGeorge\StGeorge3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StGeorge4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\StGeorge\StGeorge4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StGeorgeInfo" xml:space="preserve">
+    <value>„Свети Георги“ е православен храм, построен в късната античност в архитектурната форма на ротонда, в София, България. Намира се във вътрешния двор между сградите на хотел Балкан и Президентството на ниво с няколко метра по-ниско от съвременните софийски улици. Смятана за най-старата запазена сграда в града, тя е построена в началото на IV век, не по-късно от времето, когато София е била резиденция на императорите Галерий и Константин Велики. В храма се извършва ежедневно православно богослужение на древния литургически език на православните славяни – старобългарски, като песнопенията се изпълняват в характерното за древната православна църква – източно църковно пеене, известно като българско и византийско.
+
+Църквата е част от по-голям археологически комплекс. Зад апсидата се намират част от някогашна римска улица със запазена канализация, основите на една голяма трикорабна базилика, вероятно обществена сграда и на по-малки сгради. Едната от сградите има римска отоплителна система „хипокауст“. Плочките, повдигащи пода могат да се видят и днес. Специалистите я определят като една от най-красивите постройки в т.нар. „Константинов квартал“ на Сердика-Средец, където е бил дворецът на император Константин Велики.</value>
+  </data>
+  <data name="StGeorgeMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\StGeorge\StGeorgeMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SvetaAnastasia1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\SvetaAnastasia\SvetaAnastasia1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SvetaAnastasia2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\SvetaAnastasia\SvetaAnastasia2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SvetaAnastasia3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\SvetaAnastasia\SvetaAnastasia3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SvetaAnastasia4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\SvetaAnastasia\SvetaAnastasia4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SvetaAnastasiaInfo" xml:space="preserve">
+    <value>Света Анастасия е български остров в Бургаския залив в Черно море. Между 1945 и 1991 г. островът носи името Болшевик. Намира се на 6,5 км югоизточно от Бургас, между нос Света Анастасия и нос Атия. Островът е изграден от вулканични скали. На него се намира манастирът „Света Анастасия“. Остров Света Анастасия е един от седемте български острова в Черно море и третият по големина след островите Свети Иван и Свети Кирик. Макар и площта му да е само 9 дка (може да бъде обходен целия за 10 минути пешеходно вървене), остров Света Анастасия има много интересна и драматична история.
+
+Той няколко пъти сменя името и предназначението си. През Средновековието на него е построен манастир, нападан и опожаряван няколко пъти. В средата на острова е изградена църква „Възнесение Господне“, останала непокътната и до днес, въпреки вековете на османско владичество.
+
+Най-ранното човешко присъствие на острова датира от IV – VI век. Доказателство за него е намерено през 1973 г. По време на подводни проучвания е открит богат керамичен материал, сред който е и една цяла антична амфора от Константинопол.</value>
+  </data>
+  <data name="SvetaAnastasiaMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Burgas\SvetaAnastasia\SvetaAnastasiaMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="TextileIndustryMuseum1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sliven\TextileIndustryMuseum\TextileIndustryMuseum1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -252,6 +526,13 @@
   </data>
   <data name="TextileIndustryMuseum4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sliven\TextileIndustryMuseum\TextileIndustryMuseum4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TextileIndustryMuseumInfo" xml:space="preserve">
+    <value>Музеят на текстилната индустрия е специализиран музей, който съхранява и представя културни ценности, свързани с българското текстилно индустриално културно наследство, с историята и развитието на текстилната техника и технология и ролята на Сливен в стопанското развитие на страната ни.
+
+Сливен е първият и един от големите индустриални центрове на България. Идеята за създаване на промишлен музей в града датира от 1903г. Реално тя е осъществена 90 години по-късно, когато се отбелязват 150 години от началото на българската индустрия. През 1984г. музеят е включен в музейната мрежа на България, а на 8 септември 1986г. е официално открит за посещения.
+
+Музейната експозиция е тематична, характеризира се със строга хронология и динамичност. Голяма част от експонатите са работещи и на тях се извършват демонстрации на живо в реално време. При обиколка с професионален екскурзовод и демонстратор посетителите имат възможност да бъдат не само наблюдатели, но и участници в представянето.</value>
   </data>
   <data name="TextileIndustryMuseumMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sliven\TextileIndustryMuseum\TextileIndustryMuseumMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -268,6 +549,13 @@
   <data name="Trapezica4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\VelikoTarnovo\Trapezica\Trapezica4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="TrapezicaInfo" xml:space="preserve">
+    <value>Трапезица е хълм във Велико Търново, както и едноименна крепост в средновековния Търновград.
+
+Още през византийското владичество на хълма са живеели трапезити (пазители на проходи).
+
+Трапезица е втората крепост на вътрешния град на Средновековен Търновград (Велико Търново). Намира се на десния бряг на р. Янтра, северозападно от Царевец. Представлява естествена крепост, заобиколена от трите си страни от реката. Някога върху стръмните скали се издигали високи стени с бойници и кули. Два напречни крепостни зида са спускали по склоновете на хълма – единият в източната част, край църквата „Св. Димитър“, а другият – в западния склон с посока към сегашния железопътен мост. В крепостта се влизало през четири входа. Главният вход на Трапезица се намирал на южната страна и е бил свързан с Царевец чрез мост над р. Янтра срещу църквата „Св. 40 мъченици“. Към този вход е водел каменен път, изсечен в скалата и достигащ до южната порта, следи от която са запазени.</value>
+  </data>
   <data name="TrapezicaMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\VelikoTarnovo\Trapezica\TrapezicaMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -282,6 +570,11 @@
   </data>
   <data name="TuidaFortress4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sliven\TuidaFortress\TuidaFortress4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TuidaFortressInfo" xml:space="preserve">
+    <value>Туида е ранновизантийска средновековна крепост, чиито останки са разположени на хълма Хисарлъка в североизточната част на Сливен, от който се открива неповторима гледка към величествените Сини камъни и към самия град (хълмът се намира до кв. Ново село). Тя е част от укрепителната старопланинска система, която имала изключително важна роля за отбраната на Римската империя, по-късно и на ранната Византийска империя, както и на средновековна България.
+
+От 1982 г. се поставя началото на редовни археологически разкопки, провеждани от Историческия музей в Сливен и АИМ при БАН. Събраните данни дават представа за историческото развитие на местността и разкрива голямото ѝ значение.</value>
   </data>
   <data name="TuidaFortressMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Sliven\TuidaFortress\TuidaFortressMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -298,7 +591,85 @@
   <data name="UspenieBogorodichno4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Varna\UspenieBogorodichno\UspenieBogorodichno4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="UspenieBogorodichnoInfo" xml:space="preserve">
+    <value>„Успение Богородично“ е най-голямата църква в град Варна, България, катедрала на Варненската и Великопреславска епархия на Българската православна църква.
+
+В 1879 година императорският комисар начело на Временното руско управление в България княз Александър Дондуков-Корсаков при посещението си във Варна остава разочарован от състоянието на българската църква „Свети Архангел Михаил“ и заявява, че е готов да помогне за издигането на представителна българска църква в града. На 9 ноември 1879 екзархийският митрополит Симеон Варненски свиква православните българи от Варна да изберат 8-членна комисия, която да се погрижи за събиране на помощи и построяване на църква и училище.</value>
+  </data>
   <data name="UspenieBogorodichnoMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Varna\UspenieBogorodichno\UspenieBogorodichnoMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Varna1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\Varna1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Varna2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\Varna2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Varna3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\Varna3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Varna4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Varna\Varna4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VarnaHistory" xml:space="preserve">
+    <value>През 1972 г., по време на строителни работи, е открит Варненския халколитен некропол, който датира около 4200 г. пр.н.е. В този некропол е открито смятаното доскоро за най-старото златно съкровище в човешката история, както и други предмети от сребро, мед, бронз, кремък и глина. Известно е, че на брега на Варненския залив, където сега се намира старата част на града, се е намирала крепостта Одесос. Тя е основана от гръцки колонисти от йонийския град Милет по времето на мидийския цар Астиаг (около 570 г. пр.н.е.) близо до старо тракийско селище в областта Варна. През следващите векове градът е независима общност (полис), която се превръща в един от основните търговски центрове в Черно море. През 341 г. пр.н.е. Филип II Македонски обсажда Одесос, но не го превзема поради постигнато примирие. Само след около 10 години неговият син Александър Македонски успява да завладее града, който остава македонско владение до смъртта на Лизимах през 281 пр.н.е., след което възстановява независимостта си. Независимо от своите владетели – елини, траки, македонци, а по-късно и римляни – Одесос остава винаги град със самостоятелно управление, с развита култура, търговия и занаяти, както и селище с традиции в сеченето на монети.
+
+През 15 г. градът влиза в състава на новосъздадената римска провинция Мизия, а през 2 век е обграден с нова крепостна стена от римляните. Един от паметниците на древния Одесос са Римските терми. Те са най-голямата антична обществена сграда, открита в България, и най-голямата като площ баня на Балканския полуостров. Останките се намират в югоизточната част на днешна Варна.</value>
+  </data>
+  <data name="VarnaInfo" xml:space="preserve">
+    <value>Ва̀рна е най-големият град в Североизточна България, разположен по бреговете на Черно море и Варненското езеро и е административен център на едноименните община и област. Той е най-големият град в Северна България и по българското Черноморие. Населението на града по сведения на НСИ към 31 декември 2018 г. се изчислява на 336 505 души, което поставя Варна на трето място в България (след София и Пловдив). На територията му е разположено Адмиралтейството на Българската армия. Варна често се нарича „морската столица“ или „лятната столица на България“ и е важен туристически и просветен център, изходна точка за курортите по Северното Черноморие.
+
+В града се съхранява златно съкровище от халколита, за което се смяташе доскоро, че е най-старото златно съкровище в света, дало име на т.нар. Култура Варна. След като бяха направени разкопки в Града на птиците край Пазарджик, се установи, че откритото там обработено злато е с 200 – 300 г. по-старо от предметите във Варненския халколитен некропол. Но това, което прави уникална Варна, освен едно от най-старите златни съкровища в света, е и Международният балетен конкурс Варна, състоящ се на всеки две години в Летния театър на Варна през летния сезон.
+
+Варна е кандидат за Европейска младежка столица 2016 г. и Европейска столица на културата 2019 г. Побеждава в надпреварата за Европейска младежка столица през 2017 г. Сред международните културни събития, които се провеждат в града са фестивалите Варненско лято, Любовта е лудост, Златният делфин, Август в изкуствата, Видеохолика и други.</value>
+  </data>
+  <data name="VelikoTarnovo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\VelikoTarnovo1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VelikoTarnovo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\VelikoTarnovo2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VelikoTarnovo3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\VelikoTarnovo3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VelikoTarnovo4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VelikoTarnovo\VelikoTarnovo4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VelikoTarnovoHistory" xml:space="preserve">
+    <value>Раннобългарски период (VII-XI в.)
+Районът около града е бил обитаван от славяни. В периода VII – VIII век на хълма Царевец се създава селище, съставено от славяни и прабългари. Вероятно градът е бил една от резиденциите на българските владетели, имайки предвид прабългарското и славянското население в региона. Градът е нападан от печенези, узи и кумани. По време на този период в града е имало голям български гарнизон.
+
+Според много историци Търново като български град е бил застроен от хан Крум. Основи на сгради от Първото българско царство са открити на хълма Царевец. В църквата „Свети Четиридесет мъченици“ са открити колони с надписи от хан Крум и хан Омуртаг (Търновски надпис на кан Омуртаг).
+
+Столичен период (XII – XIV в.)
+ Основна статия: Въстание на Асен и Петър
+Търновград става значителен град по време на Първата българска държава. Възможно е поради важността си градът да е бил резиденция на владетели от Първата българска държава. Кръглите кули и масивните крепостни стени около манастирския комплекс „Великата Лавра“, строен през ХІ – ХІІ век, свидетелстват, че градът е бил важен център.</value>
+  </data>
+  <data name="VelikoTarnovoInfo" xml:space="preserve">
+    <value>Велико Търново е град, намиращ се в Северна България, център на едноименната област, както и на Северен централен регион. Градът е столица на Втората българска държава и на Княжество България в периода 1878 – 1879 г. През Средновековието носи името Търновград, като постепенно става известен с наименованието Търново. През 1963 г. пред него е добавено „Велико“ в чест на предишната слава на града. Благодарение на богатото си културно-историческо наследство Велико Търново е важен туристически център.
+
+Градът е с население 68 859 души към 31.12.2018 г. и е един от четирите града в България с положителен естествен прираст от 2006 до 2014 г. Разположен между Дунавската равнина и Стара планина, върху първите възвишения на Предбалкана, Търново е основен административен, индустриален и образователен център на региона. Тук се намират Националният военен университет „Васил Левски“ – факултет „Общовойскови“, ВТУ „Св. св. Кирил и Методий“ (вторият по големина университет в България), катедралата Рождество Богородично, крепостите Царевец и Трапезица, множество музеи и културни забележителности; общо 1613 обекта от историческото наследство на България.</value>
+  </data>
+  <data name="Vitosha1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\Vitosha\Vitosha1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vitosha2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\Vitosha\Vitosha2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vitosha3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\Vitosha\Vitosha3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vitosha4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\Vitosha\Vitosha4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VitoshaInfo" xml:space="preserve">
+    <value>Витоша е планина в Западна България. Най-високата ѝ точка е Черни връх (2290 m). Така тя се нарежда на четвърто място по височина в България след Рила, Пирин и Стара планина.
+
+Витоша се намира между Стара планина и Рило-Родопския масив и е част от Средногорието. Тя е единствената куполообразна планина в България и основното и било се откроява добре от останалите планински масиви. То върви по върховете Черни връх, Резньовете, Скопарник и Острица, в посока северозапад-югоизток.
+
+Планината е част от Завалско-Планската планинска редица на Средногорието.</value>
+  </data>
+  <data name="VitoshaMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sofia\Vitosha\VitoshaMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

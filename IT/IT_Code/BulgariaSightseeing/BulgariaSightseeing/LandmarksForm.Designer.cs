@@ -208,7 +208,7 @@
             this.maximizePictureBox.Name = "maximizePictureBox";
             this.maximizePictureBox.Size = new System.Drawing.Size(426, 471);
             this.maximizePictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.maximizePictureBox.TabIndex = 13;
+            this.maximizePictureBox.TabIndex = 14;
             this.maximizePictureBox.TabStop = false;
             // 
             // LandmarksForm

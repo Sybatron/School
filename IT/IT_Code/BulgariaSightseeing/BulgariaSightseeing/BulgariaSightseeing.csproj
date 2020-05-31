@@ -294,5 +294,185 @@
   <ItemGroup>
     <None Include="Resources\Varna\UspenieBogorodichno\UspenieBogorodichnoMain.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\ArchaeologyMuseum\ArchaeologyMuseum1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\ArchaeologyMuseum\ArchaeologyMuseum2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\ArchaeologyMuseum\ArchaeologyMuseum3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\ArchaeologyMuseum\ArchaeologyMuseum4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\ArchaeologyMuseum\ArchaeologyMuseumMain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\Poda\Poda1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\Poda\Poda2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\Poda\Poda3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\Poda\Poda4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\Poda\PodaMain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\SeaGarden\SeaGarden1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\SeaGarden\SeaGarden2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\SeaGarden\SeaGarden3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\SeaGarden\SeaGarden4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\SeaGarden\SeaGardenMain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\SvetaAnastasia\SvetaAnastasia1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\SvetaAnastasia\SvetaAnastasia2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\SvetaAnastasia\SvetaAnastasia3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\SvetaAnastasia\SvetaAnastasia4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\SvetaAnastasia\SvetaAnastasiaMain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\BoyanskaCarkva\BoyanskaCarkvaMain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\BoyanskaCarkva\BoyanskaCarkva1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\BoyanskaCarkva\BoyanskaCarkva2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\BoyanskaCarkva\BoyanskaCarkva3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\BoyanskaCarkva\BoyanskaCarkva4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\StAlexanderNevski\StAlexanderNevski1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\StAlexanderNevski\StAlexanderNevski2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\StAlexanderNevski\StAlexanderNevski3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\StAlexanderNevski\StAlexanderNevski4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\StAlexanderNevski\StAlexanderNevskiMain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\StGeorge\StGeorge1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\StGeorge\StGeorge2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\StGeorge\StGeorge3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\StGeorge\StGeorge4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\StGeorge\StGeorgeMain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\Vitosha\Vitosha1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\Vitosha\Vitosha2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\Vitosha\Vitosha3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\Vitosha\Vitosha4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\Vitosha\VitoshaMain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\Burgas1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\Burgas2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\Burgas3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Burgas\Burgas4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sliven\Sliven1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sliven\Sliven2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sliven\Sliven3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sliven\Sliven4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\Sofia1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\Sofia2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\Sofia3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia\Sofia4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Varna\Varna1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Varna\Varna2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Varna\Varna3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Varna\Varna4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VelikoTarnovo\VelikoTarnovo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VelikoTarnovo\VelikoTarnovo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VelikoTarnovo\VelikoTarnovo3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VelikoTarnovo\VelikoTarnovo4.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

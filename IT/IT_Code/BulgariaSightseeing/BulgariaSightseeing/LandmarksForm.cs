@@ -52,6 +52,28 @@ namespace BulgariaSightseeing
                 landmarkPictureBox4.Image = Resources.UspenieBogorodichnoMain;
                 landmarkLabel4.Text = "Храм \"Юспение богородично\"";
             }
+            else if (city == "Бургас")
+            {
+                landmarkPictureBox1.Image = Resources.ArchaeologyMuseumMain;
+                landmarkLabel1.Text = "Археологически музей";
+                landmarkPictureBox2.Image = Resources.PodaMain;
+                landmarkLabel2.Text = "Природозащитен център ПОДА";
+                landmarkPictureBox3.Image = Resources.SeaGardenMain;
+                landmarkLabel3.Text = "Морската градина";
+                landmarkPictureBox4.Image = Resources.SvetaAnastasiaMain;
+                landmarkLabel4.Text = "Манастир \"Света Анастасия\"";
+            }
+            else if (city == "София")
+            {
+                landmarkPictureBox1.Image = Resources.BoyanskaCarkvaMain;
+                landmarkLabel1.Text = "Боянска църква";
+                landmarkPictureBox2.Image = Resources.StAlexanderNevskiMain;
+                landmarkLabel2.Text = "Св. Александър Невски";
+                landmarkPictureBox3.Image = Resources.StGeorgeMain;
+                landmarkLabel3.Text = "Ротонда \"Св. Георги\"";
+                landmarkPictureBox4.Image = Resources.VitoshaMain;
+                landmarkLabel4.Text = "Витоша";
+            }
         }
 
         private void maximazeMenuItem_Click(object sender, EventArgs e)
@@ -63,6 +85,7 @@ namespace BulgariaSightseeing
 
         private void infoMenuItem_Click(object sender, EventArgs e)
         {
+            FindLandmarkName();
             var infoForm = new LandmarkInfo(landmarkName, city, this.Text);
             this.Hide();
             infoForm.ShowDialog();
@@ -70,6 +93,15 @@ namespace BulgariaSightseeing
         }
 
         private void galleryMenuItem_Click(object sender, EventArgs e)
+        {
+            FindLandmarkName();
+            var galleryForm = new LandmarkGalleryForm(landmarkName, city, this.Text);
+            this.Hide();
+            galleryForm.ShowDialog();
+            this.Close();
+        }
+
+        private void FindLandmarkName()
         {
             switch (landmarksContextMenuStrip.SourceControl.Name)
             {
@@ -86,11 +118,6 @@ namespace BulgariaSightseeing
                     landmarkName = landmarkLabel4.Text;
                     break;
             }
-
-            var galleryForm = new LandmarkGalleryForm(landmarkName, city, this.Text);
-            this.Hide();
-            galleryForm.ShowDialog();
-            this.Close();
         }
 
         private void backMenuItem_Click(object sender, EventArgs e)
