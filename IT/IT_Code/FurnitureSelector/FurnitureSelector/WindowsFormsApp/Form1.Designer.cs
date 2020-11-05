@@ -33,6 +33,7 @@
             this.gridLayout = new System.Windows.Forms.TableLayoutPanel();
             this.viewButton = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.scrollBar = new System.Windows.Forms.VScrollBar();
             this.progressBar = new System.Windows.Forms.ProgressBar();
             this.objectOptionBox = new System.Windows.Forms.ComboBox();
             this.objectRB1 = new System.Windows.Forms.RadioButton();
@@ -88,8 +89,18 @@
             this.gridLayout.SetColumnSpan(this.panel1, 3);
             this.panel1.Location = new System.Drawing.Point(3, 152);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(354, 39);
+            this.panel1.Size = new System.Drawing.Size(330, 39);
             this.panel1.TabIndex = 4;
+            // 
+            // scrollBar
+            // 
+            this.scrollBar.LargeChange = 1;
+            this.scrollBar.Location = new System.Drawing.Point(348, 168);
+            this.scrollBar.Maximum = 0;
+            this.scrollBar.Name = "scrollBar";
+            this.scrollBar.Size = new System.Drawing.Size(17, 80);
+            this.scrollBar.TabIndex = 0;
+            this.scrollBar.ValueChanged += new System.EventHandler(this.scrollBar_ValueChanged);
             // 
             // progressBar
             // 
@@ -203,8 +214,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(492, 200);
+            this.ClientSize = new System.Drawing.Size(497, 209);
             this.ControlBox = false;
+            this.Controls.Add(this.scrollBar);
             this.Controls.Add(this.gridLayout);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
@@ -233,6 +245,7 @@
         private System.Windows.Forms.Timer formTimer;
         private System.Windows.Forms.Timer loadItemsTimer;
         private System.Windows.Forms.Timer loadShopListTimer;
+        private System.Windows.Forms.VScrollBar scrollBar;
     }
 }
 

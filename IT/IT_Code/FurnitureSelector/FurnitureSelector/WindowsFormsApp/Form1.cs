@@ -1,13 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Globalization;
 using System.Linq;
-using System.Text;
 using System.Windows.Forms;
-using WindowsFormsApp.Properties;
 
 namespace WindowsFormsApp
 {
@@ -29,7 +24,8 @@ namespace WindowsFormsApp
             {"легла",new string[]{ "Легло \"Minecraft edition\"", "Легло \"Счупи гръб\"", "Младоженско легло", "Двуетажно легло"} },
         };
 
-        List<Control> panelControls = new List<Control>();
+        Dictionary<string, Label> shopList = new Dictionary<string, Label>();
+        Dictionary<string, int> itemCount = new Dictionary<string, int>();
 
 
         public Form1()
@@ -37,6 +33,7 @@ namespace WindowsFormsApp
             InitializeComponent();
             progressBar.Visible = false;
             addButton.Visible = false;
+            scrollBar.Visible = false;
         }
 
         private void exitButton_Click(object sender, EventArgs e)
@@ -69,12 +66,51 @@ namespace WindowsFormsApp
             }
         }
 
+        private void addButton_Click(object sender, EventArgs e)
+        {
+            var checkedRB = gridLayout.Controls.OfType<RadioButton>().FirstOrDefault(r => r.Checked);
+            var rbIndex = (int)char.GetNumericValue(checkedRB.Name.Last<char>());
+            var labelText = itemsNames[oldChoice][rbIndex - 1];
+
+            if (itemCount.ContainsKey(labelText))
+            {
+                itemCount[labelText]++;
+                shopList[labelText].Text = labelText + " X " + itemCount[labelText];
+                return;
+            }
+            else
+            {
+                itemCount[labelText] = 1;
+
+                var itemLabel = new Label();
+                itemLabel.Text = labelText + " X " + 1;
+                itemLabel.Height = 200;
+                itemLabel.Width = 400;
+                itemLabel.Font = new Font("Comic Sans MS", 11);
+                itemLabel.Visible = true;
+                itemLabel.Show();
+
+                shopList[labelText] = itemLabel;
+            }
+
+            if (panel1.Controls.Count == 0)
+            {
+                panel1.Controls.Add(shopList[labelText]);
+            }
+            scrollBar.Maximum++;
+        }
+        private void scrollBar_ValueChanged(object sender, EventArgs e)
+        {
+            var item = shopList.Skip(scrollBar.Value).FirstOrDefault();
+            panel1.Controls.Clear();
+            panel1.Controls.Add(item.Value);
+        }
+
         private void formTimer_Tick(object sender, EventArgs e)
         {
             if (progressBar.Value == 100)
             {
                 formTimer.Stop();
-                addButton.Visible = true;
 
                 progressBar.Value = 0;
                 viewButton.Enabled = false;
@@ -97,27 +133,14 @@ namespace WindowsFormsApp
                 loadItemsTimer.Stop();
                 progressBar.Visible = false;
                 viewButton.Enabled = true;
+                addButton.Visible = true;
+                scrollBar.Visible = true;
                 loadItems();
             }
             else
             {
                 progressBar.Value += 25;
             }
-        }
-
-        private void addButton_Click(object sender, EventArgs e)
-        {
-            var checkedRB = gridLayout.Controls.OfType<RadioButton>().FirstOrDefault(r => r.Checked);
-            var rbIndex = (int)char.GetNumericValue(checkedRB.Name.Last<char>());
-            var labelText = itemsNames[oldChoice][rbIndex-1];
-            var itemLabel = new Label();
-            itemLabel.Text = labelText;
-            itemLabel.Height = 200;
-            itemLabel.Width = 400;
-            itemLabel.Font = new Font("Comic Sans MS", 11);
-            itemLabel.Visible = true;
-            itemLabel.Show();
-            panel1.Controls.Add(itemLabel);
         }
     }
 }
