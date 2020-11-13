@@ -27,7 +27,6 @@ namespace WindowsFormsApp
         Dictionary<string, Label> shopList = new Dictionary<string, Label>();
         Dictionary<string, int> itemCount = new Dictionary<string, int>();
 
-
         public Form1()
         {
             InitializeComponent();
@@ -91,13 +90,15 @@ namespace WindowsFormsApp
                 itemLabel.Show();
 
                 shopList[labelText] = itemLabel;
+                scrollBar.Maximum++;
             }
 
             if (panel1.Controls.Count == 0)
             {
                 panel1.Controls.Add(shopList[labelText]);
+                scrollBar.Maximum--;
             }
-            scrollBar.Maximum++;
+            
         }
         private void scrollBar_ValueChanged(object sender, EventArgs e)
         {
@@ -114,6 +115,8 @@ namespace WindowsFormsApp
 
                 progressBar.Value = 0;
                 viewButton.Enabled = false;
+                addButton.Enabled = false;
+
                 loadItemsTimer.Start();
                 return;
             }
@@ -132,9 +135,12 @@ namespace WindowsFormsApp
             {
                 loadItemsTimer.Stop();
                 progressBar.Visible = false;
+
                 viewButton.Enabled = true;
                 addButton.Visible = true;
+                addButton.Enabled = true;
                 scrollBar.Visible = true;
+
                 loadItems();
             }
             else

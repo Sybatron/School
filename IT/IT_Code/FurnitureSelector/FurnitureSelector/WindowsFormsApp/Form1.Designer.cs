@@ -33,7 +33,6 @@
             this.gridLayout = new System.Windows.Forms.TableLayoutPanel();
             this.viewButton = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.scrollBar = new System.Windows.Forms.VScrollBar();
             this.progressBar = new System.Windows.Forms.ProgressBar();
             this.objectOptionBox = new System.Windows.Forms.ComboBox();
             this.objectRB1 = new System.Windows.Forms.RadioButton();
@@ -42,6 +41,7 @@
             this.objectRB4 = new System.Windows.Forms.RadioButton();
             this.addButton = new System.Windows.Forms.Button();
             this.exitButton = new System.Windows.Forms.Button();
+            this.scrollBar = new System.Windows.Forms.VScrollBar();
             this.formTimer = new System.Windows.Forms.Timer(this.components);
             this.loadItemsTimer = new System.Windows.Forms.Timer(this.components);
             this.loadShopListTimer = new System.Windows.Forms.Timer(this.components);
@@ -80,7 +80,7 @@
             this.viewButton.Name = "viewButton";
             this.viewButton.Size = new System.Drawing.Size(114, 23);
             this.viewButton.TabIndex = 3;
-            this.viewButton.Text = "viewButton";
+            this.viewButton.Text = "Разгледай";
             this.viewButton.UseVisualStyleBackColor = true;
             this.viewButton.Click += new System.EventHandler(this.viewButton_Click);
             // 
@@ -91,16 +91,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(330, 39);
             this.panel1.TabIndex = 4;
-            // 
-            // scrollBar
-            // 
-            this.scrollBar.LargeChange = 1;
-            this.scrollBar.Location = new System.Drawing.Point(348, 168);
-            this.scrollBar.Maximum = 0;
-            this.scrollBar.Name = "scrollBar";
-            this.scrollBar.Size = new System.Drawing.Size(17, 80);
-            this.scrollBar.TabIndex = 0;
-            this.scrollBar.ValueChanged += new System.EventHandler(this.scrollBar_ValueChanged);
             // 
             // progressBar
             // 
@@ -182,7 +172,7 @@
             this.addButton.Name = "addButton";
             this.addButton.Size = new System.Drawing.Size(118, 23);
             this.addButton.TabIndex = 8;
-            this.addButton.Text = "addButton";
+            this.addButton.Text = "Добави";
             this.addButton.UseVisualStyleBackColor = true;
             this.addButton.Click += new System.EventHandler(this.addButton_Click);
             // 
@@ -192,9 +182,19 @@
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(118, 39);
             this.exitButton.TabIndex = 9;
-            this.exitButton.Text = "exitButton";
+            this.exitButton.Text = "Изход";
             this.exitButton.UseVisualStyleBackColor = true;
             this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
+            // 
+            // scrollBar
+            // 
+            this.scrollBar.LargeChange = 1;
+            this.scrollBar.Location = new System.Drawing.Point(348, 168);
+            this.scrollBar.Maximum = 0;
+            this.scrollBar.Name = "scrollBar";
+            this.scrollBar.Size = new System.Drawing.Size(17, 80);
+            this.scrollBar.TabIndex = 0;
+            this.scrollBar.ValueChanged += new System.EventHandler(this.scrollBar_ValueChanged);
             // 
             // formTimer
             // 
@@ -214,7 +214,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(497, 209);
+            this.ClientSize = new System.Drawing.Size(493, 205);
             this.ControlBox = false;
             this.Controls.Add(this.scrollBar);
             this.Controls.Add(this.gridLayout);
