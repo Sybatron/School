@@ -1,0 +1,36 @@
+ul {
+  margin: 0;
+  list-style-type: none;
+}
+
+nav ul {
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+}
+
+.list-dashed li {
+  position: relative;
+  left: 5px;
+}
+
+.list-dashed li:before {
+  position: absolute;
+  left: -5px;
+  content: "-";
+}
+
+.o-img-box {
+  max-width: 500px;
+  max-width: 500px;
+}
+
+.u-inline {
+  display: inline;
+}
+
+.u-bottom-border {
+  border-bottom: 1px solid black;
+}
