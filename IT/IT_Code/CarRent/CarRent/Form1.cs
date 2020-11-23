@@ -54,7 +54,7 @@ namespace CarRent
                     fullPrice += double.Parse(CB.Tag.ToString());
                 }
             }
-
+            
             var dailyPrice = carPrices[carSelectorComboBox.Text];
             var selectionRange = calendarElement.SelectionRange;
             var days = selectionRange.End.Subtract(selectionRange.Start).Days;
