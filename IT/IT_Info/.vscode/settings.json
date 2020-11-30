@@ -1,4 +1,6 @@
 {
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true
+    "files.autoSaveDelay": 2500,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "prettier.tabWidth": 4
 }

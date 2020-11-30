@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap");
+
+* {
+    margin: 0;
+}
+
+.page-wrapper--blue {
+    background-color: #42d9c8;
+    height: 100vh;
+}
+
+.title-main {
+    width: 100%;
+    margin-bottom: 10px;
+    border-bottom: 1px solid black;
+    text-align: center;
+    color: #2c8c99;
+}
+
+.title-secondary--blue {
+    color: #2c5a63;
+}
+
+.title-secondary--red {
+    color: #931621;
+}
+
+.text {
+    width: 100%;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.text--blue {
+    color: #28464b;
+    font-family: Tahoma, sans-serif;
+}
+
+.text--red {
+    color: #630f16;
+    font-family: "Roboto", sans-serif;
+}
+
+.text--row {
+    display: block;
+    font-style: italic;
+}
+
+.text--row::first-letter {
+    font-weight: bold;
+}
+
+.text--number {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.custom-footer {
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #40cebdf8;
+}
+
+.o-image-frame {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.u-bold {
+    font-weight: bold !important;
+}
+
+.u-align-center {
+    align-items: center !important;
+    text-align: center !important;
+}
+
+.u-align-right {
+    align-items: right !important;
+    text-align: right !important;
+}

@@ -1,36 +1,54 @@
-ul {
-  margin: 0;
-  list-style-type: none;
+body {
+    background-color: rgb(23, 0, 31);
 }
 
-nav ul {
-  padding: 0;
+p {
+    margin: 0;
+    color: aliceblue;
+}
+
+li {
+    color: rgb(195, 231, 255);
+}
+
+a {
+    color: rgb(218, 25, 83);
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
 }
 
 nav li {
-  display: inline;
+    display: inline;
+}
+
+footer {
+    margin-top: 10px;
 }
 
 .list-dashed li {
-  position: relative;
-  left: 5px;
+    position: relative;
+    left: 5px;
 }
 
 .list-dashed li:before {
-  position: absolute;
-  left: -5px;
-  content: "-";
+    position: absolute;
+    left: -5px;
+    content: "-";
 }
 
 .o-img-box {
-  max-width: 500px;
-  max-width: 500px;
+    max-width: 500px;
+    max-width: 500px;
 }
 
 .u-inline {
-  display: inline;
+    display: inline;
 }
 
 .u-bottom-border {
-  border-bottom: 1px solid black;
+    border-bottom: 1px solid black;
 }
