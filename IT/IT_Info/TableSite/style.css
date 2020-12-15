@@ -1,0 +1,47 @@
+table {
+    border-collapse: collapse;
+    background-color: rgb(255, 235, 239);
+}
+tr,
+th,
+td {
+    border: 1px solid black;
+}
+
+th,
+td {
+    padding: 5px;
+}
+
+th {
+    background-color: rgb(255, 235, 239);
+}
+
+tbody td {
+    text-align: center;
+}
+
+.td--pink {
+    background-color: rgb(206, 191, 194);
+}
+
+.td--gold {
+    background-color: gold !important;
+}
+.td--silver {
+    background-color: silver !important;
+}
+.td--bronze {
+    background-color: rgb(255, 186, 108) !important;
+}
+.td--total {
+    background-color: rgb(169, 185, 135) !important;
+}
+
+.u-default-bg {
+    background-color: rgb(255, 235, 239);
+}
+
+.u-secondary-bg {
+    background-color: rgb(171, 150, 206);
+}

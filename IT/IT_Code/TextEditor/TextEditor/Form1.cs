@@ -43,6 +43,7 @@ namespace TextEditor
 
             richTextBox1.Font = defaultFont;
             richTextBox1.BackColor = Color.White;
+            ClipboardEnable();
         }
 
         private void openMenuItem_Click(object sender, EventArgs e)
@@ -194,17 +195,21 @@ namespace TextEditor
             {
                 cutContextMenuItem.Enabled = true;
                 cutMenuItem.Enabled = true;
+                cutButton.Enabled = true;
 
                 copyContextMenuItem.Enabled = true;
                 copyMenuItem.Enabled = true;
+                copyButton.Enabled = true;
             }
             else
             {
                 cutContextMenuItem.Enabled = false;
                 cutMenuItem.Enabled = false;
+                cutButton.Enabled = false;
 
                 copyContextMenuItem.Enabled = false;
                 copyMenuItem.Enabled = false;
+                copyButton.Enabled = false;
             }
         }
 

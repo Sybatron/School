@@ -1,0 +1,39 @@
+table {
+    border-collapse: collapse;
+    background-color: rgb(255, 235, 239);
+}
+tr,
+th,
+td {
+    border: 1px solid black;
+}
+
+th,
+td {
+    padding: 5px;
+}
+
+th {
+    background-color: rgb(255, 235, 239);
+}
+
+tbody td {
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+.u-align-right {
+    align-items: flex-end;
+    text-align: end;
+}
+
+.u-big-icon {
+    font-size: 32px;
+}
+
+.u-medium-icon {
+    font-size: 24px;
+}
