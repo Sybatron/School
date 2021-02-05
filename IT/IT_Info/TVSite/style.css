@@ -1,0 +1,58 @@
+tbody:nth-child(n) {
+    color: rgb(2n, 2n, 2n);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid black;
+}
+
+th {
+    min-width: 500px;
+}
+
+td {
+    padding: 0 10px;
+}
+
+a:hover .c-img-info {
+    opacity: 1;
+}
+
+.o-position-wrapper {
+    position: relative;
+}
+
+.o-img-wrapper {
+    max-width: 300px;
+    max-height: 300px;
+    align-items: center;
+    justify-items: center;
+}
+
+.c-img-info {
+    position: absolute;
+    bottom: 0;
+    left: 40%;
+
+    border-radius: 10px;
+
+    font-size: 18px;
+
+    opacity: 0;
+    color: black !important;
+    background-color: rgb(255, 255, 255, 0.5);
+
+    transition: opacity 0.5s ease-out;
+}
+
+.u-img-email {
+    display: grid !important;
+    justify-items: right !important;
+    padding: 0 5px;
+    border: none !important;
+}
